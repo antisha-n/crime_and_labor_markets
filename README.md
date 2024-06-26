@@ -1,2 +1,2 @@
 # crime_and_labor_markets
-This repository contains codes to analyzing crime and labor market outcomes in the United Kingdom. 
+This repository contains codes to analyzing crime and labor market outcomes in the United Kingdom. The project was undertaken while working at the Crime and Policing and Well-being Unit of the Centre for Economic Performance, London School of Economics and Political Science (LSE). The research design of the project was executed under the supervision of Tom Kirchmaier, Magdalena Dominguez, Shubhangi Aggarwal, Ekaterina (Katya) Oparina among several others.
